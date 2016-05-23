@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Philosopher, data gatherer, programmer, observer
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Sarah Cousins Hoopes. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- There is nothing I do better than talk about nothing all day
+- Problem solver commonly found repurposing items for creative use in unintended ways
 
 What else do you need?
 
-### my history
+### My history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+In short, I was born, grew up the old fashioned way and got hooked on computers at age 9 or 10 (I know, so late!) when I somehow missed that I was usually the only female in the room. Back off buddy, I have problems to solve. Got a few degrees and started getting paid to do this stuff full time. That sequence of events may be a little off.
