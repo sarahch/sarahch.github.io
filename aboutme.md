@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle: Philosopher, data gatherer, programmer, observer
+bigimg: /img/Elevate Yellow Cropped.jpg
 ---
 
 My name is Sarah Cousins Hoopes. I have the following qualities:
