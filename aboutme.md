@@ -7,9 +7,9 @@ subtitle: Philosopher, data gatherer, programmer, observer
 My name is Sarah Cousins Hoopes. I have the following qualities:
 
 - There is nothing I do better than talk about nothing all day
-- Problem solver commonly found repurposing items for creative use in unintended ways
+- Obsessive problem solver commonly found repurposing items for creative use in unintended ways
 
-What else do you need?
+I also excel at run-on sentences, but I'm trying to slim them down.
 
 ### My history
 
