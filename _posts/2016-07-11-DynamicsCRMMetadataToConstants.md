@@ -4,7 +4,7 @@ title: Dynamics CRM Metadata To C# Constants Files
 bigimg: /img/BridgeOverDepotBay.jpg
 ---
 
-Intellisense is great for many things, and clean code is one of them. When I write my C# plugins for Dynamics CRM, I like to include several contants files so that I don't accidentally mistype something. It just makes my life a little easier when so many other things don't work the way they should.
+Intellisense is great for many things, and clean code is one of them. When I write my C# plugins for Dynamics CRM, I like to include several contants files so that I don't accidentally mistype something. It just makes my life a little easier when so many other things don't work the way they should. 
 
 So I wrote a small tool that will take the customizations.xml file from an exported solution and build the constants file for me. It even includes the Option Sets.
 
@@ -18,4 +18,4 @@ To get the file this tool will read:
 
 In my c# projects, I create a Constants folder, so that's where I put the output files. I've run a few tests, but I haven't used it with a client yet, so there are probably a few bugs I haven't found yet or assumptions I didn't respect.
 
-I decided to share it with the community beause I haven't found anything like it, even though it's a pretty simple thing to write, and I wish I'd had it years ago.
+I decided to share it with the community beause even though it's a pretty simple thing to write, and I wish I'd had it years ago. Note: there is a [code gen tool in the Microsoft SDK](https://msdn.microsoft.com/en-us/library/gg327844.aspx) that does something similar, but that tool is compiled, and we only have access to snippets of the code in the SDK sample files. 
